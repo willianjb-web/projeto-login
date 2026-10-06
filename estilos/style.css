@@ -60,15 +60,15 @@ section#login > div#formulario {
 
 div#formulario > h1 {
     text-align: center;
-    font-size: 2em;
-    margin-bottom: 7px;
+    font-size: 1.8em;
+    margin-bottom: 5px;
     margin-top: 2px;
 }
 
 div#formulario > p {
     font-size: 0.8em;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 form > div.campo {
@@ -101,7 +101,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-4px);
+    transform: translateY(-4.9px);
 }
 
 div.campo > input:focus-within {
